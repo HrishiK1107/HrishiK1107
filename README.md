@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff88&height=200&section=header&text=Hrishikesh%20Kanapuram&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Security%20Engineer%20%7C%20VAPT%20%7C%20Cloud%20Security%20%7C%20Detection%20Engineering&descAlignY=58&descColor=00ff88" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishikesh-kanapuram-658b5732b)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/HrishiK)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/HrishiK)
 [![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00A86B?style=for-the-badge)](https://www.isc2.org/)
 
 </div>
