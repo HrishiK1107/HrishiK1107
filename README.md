@@ -3,19 +3,12 @@
 **Security Analyst · VAPT · Cloud Security · Detection Engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishikeshkanapuram)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/HrishiK)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/HrishiK)
 [![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00A86B?style=for-the-badge)](https://www.isc2.org/)
 
 ---
 
-<table>
-<tr>
-<td width="30%" valign="top">
-
-<img src="https://raw.githubusercontent.com/HrishiK1107/main/image.png" width="100%" />
-
-</td>
-<td width="70%" valign="top">
+<img src="https://raw.githubusercontent.com/HrishiK1107/HrishiK1107/main/image.png" width="390" align="left" />
 
 ```yaml
 hrishik@security-analyst
@@ -25,9 +18,13 @@ Host          : SSPU Pune — B.Tech CSIT (Cybersecurity), Final Year
 Focus         : Detection Engineering · Cloud Security · VAPT
 Status        : Open to SOC / VAPT / Cloud Security roles — 2026
 ───────────────────────────────────────────────
-Arsenal.Off   : Burp Suite, Nmap, Metasploit, SQLmap, Nikto, ZAP, Hashcat, Gobuster, BloodHound
-Arsenal.Def   : eBPF/BCC, SIEM, Wazuh, TheHive/Cortex, Atomic Red Team, MITRE ATT&CK, Splunk, Elastic Stack, Wireshark, VirusTotal, CyberChef
-Arsenal.Cloud : AWS IAM, Terraform, AWS CloudTrail, AWS GuardDuty, KQL, CIS Benchmarks
+Arsenal.Off   : Burp Suite, Nmap, Metasploit, SQLmap, Nikto,
+                ZAP, Hashcat, Gobuster, BloodHound
+Arsenal.Def   : eBPF/BCC, SIEM, Wazuh, TheHive/Cortex,
+                Atomic Red Team, MITRE ATT&CK, Splunk,
+                Elastic Stack, Wireshark, VirusTotal, CyberChef
+Arsenal.Cloud : AWS IAM, Terraform, AWS CloudTrail,
+                AWS GuardDuty, KQL, CIS Benchmarks
 Languages     : Python, TypeScript, Bash
 Frameworks    : OWASP Top 10, NIST CSF, ISO 27001, Sigma Rules
 ───────────────────────────────────────────────
@@ -39,9 +36,7 @@ Contact.Git   : github.com/HrishiK1107 — 10 repos
 Contact.In    : linkedin.com/in/hrishikeshkanapuram
 ```
 
-</td>
-</tr>
-</table>
+<br clear="left" />
 
 I don't just study security — I **build the systems that catch attackers**.
 
@@ -118,6 +113,8 @@ From writing eBPF kernel probes to correlating IOCs in a graph database to hunti
 </tr>
 <tr>
 <td width="50%">
+
+
 
 ### 🔵 [soc-homelabs](https://github.com/HrishiK1107/soc-homelabs)
 **Blue Team SOC Home Lab**
