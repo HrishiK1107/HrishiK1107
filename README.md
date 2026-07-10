@@ -12,7 +12,7 @@
 <tr>
 <td width="30%" valign="top">
 
-<img src="https://raw.githubusercontent.com/HrishiK1107/HrishiK1107/main/image.png" width="100%" />
+<img src="https://raw.githubusercontent.com/HrishiK1107/HrishiK1107/image.png" width="100%" />
 
 </td>
 <td width="70%" valign="top">
