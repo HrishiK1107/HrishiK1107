@@ -8,7 +8,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/HrishiK1107/HrishiK1107/main/image.png" width="380" align="left" />
+<img src="https://raw.githubusercontent.com/HrishiK1107/HrishiK1107/main/image.png" width="370" align="left" />
 
 ```yaml
 hrishik@security-analyst
